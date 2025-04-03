@@ -1,1 +1,1 @@
-# python_be_genai_plgrnd
+# python_be_plgrnd
